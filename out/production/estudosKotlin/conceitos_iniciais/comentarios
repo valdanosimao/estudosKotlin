@@ -1,0 +1,19 @@
+comentário é um texto que vai ser ignorado completamente
+quando todar ou compilar um programafazer um cumentário
+é importante em programas que contem muitas linhas de códigos
+é bom pontuar sobre o que certo trecho de código faz
+para inserir um comentário no kotlin é da seguinte forma:
+
+*unica linha
+//aqui escrevemos o que a gente quiser
+
+*várias linhas
+/*
+* aqui escrevemos o que a gente quiser
+*
+*/
+
+*documentação
+/**
+* aqui escrevemos a documentação de uma classe ou função
+*/
