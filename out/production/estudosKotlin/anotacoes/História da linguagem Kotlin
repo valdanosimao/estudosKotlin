@@ -1,0 +1,11 @@
+Criado pela JetBrains em 2010, mesma empresa que criou o IntelliJ IDEA entre outros.
+Foi liberada para o público em 2011
+O Código fonte foi aberto em 2012 na comunidade github
+O lançamento da versão oficial (v1.0) e estável foi em 2016
+Em 2017 ela é oficialmente suportada para android, a partir do Android Studio 3.0
+Em 2019 ela se tornou a linguagem preferencia para o Android
+
+Características
+100% compativel com o Java, este conceito é chamado de 'interoperável'
+Orientada a Objetos e Funcional
+Estáticamente tipada, concisa(menos código) e segura
