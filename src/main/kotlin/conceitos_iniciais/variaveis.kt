@@ -8,9 +8,9 @@ ao contrário do java que é fortemente tipada.
 Caso queira colocar o tipo da variavel é da seguinte forma: val titular: String = "valdano"
 */
 fun main() {
-    //var = pode ser modificada
+    //var = pode ser modificada = mutável
     var nome = "Valdano"
 
-    //val = não pode ser modificada
+    //val = não pode ser modificada = imutável
     val rg = 7551
 }
