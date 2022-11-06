@@ -1,0 +1,5 @@
+Quando o kotlin ou o java é compilado ele não é compilado direto para
+um sistema operacional, ele é compilado para um 'Bytecode(.class) e
+quem faz o entendimento é a JVM (Java Virtual Machine) o códido é compilado
+apenas para uma plataforma e a JVM, que é reponsável por se comunicar com
+os sistemas operacionais.
