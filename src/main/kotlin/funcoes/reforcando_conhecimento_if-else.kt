@@ -6,7 +6,7 @@ fun main() {
     converterMilhas(100f)
 }
 
-/**
+/*
  * 1º Escreva uma função que seja capaz de receber a quantidade de anos e transformar
 em meses, dias, horas, minutos e segundos. Saída desejada:
 
@@ -28,21 +28,21 @@ fun calcularQuantidadeAnos(anos: Int) {
 
 }
 
-/**
+/*
  * 2º Escreva uma função capaz de receber uma String e retornar a quantidade de caracteres
  */
 fun calcularQuantidadeCaracteres(str: String) {
     println("A quantidade de caracteres inseridas é: ${str.length}")
 }
 
-/**
+/*
  * 3º Escreva uma função capaz de calcular o cubo de um número inteiro (cubo = n*n*n)
  */
 fun calcularCubo(numero: Int): Int {
     return numero * numero * numero
 }
 
-/**
+/*
  * 4º Escreva uma função capaz de receber milhas e converter em km (1 milha = 1,6km)
  */
 fun converterMilhas(milha: Float){
