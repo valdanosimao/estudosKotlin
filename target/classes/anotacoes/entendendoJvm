@@ -1,0 +1,10 @@
+Quando o kotlin ou o java é compilado ele não é compilado direto para
+um sistema operacional, ele é compilado para um 'Bytecode(.class) e
+quem faz o entendimento é a JVM (Java Virtual Machine) o códido é compilado
+apenas para uma plataforma e a JVM, que é reponsável por se comunicar com
+os sistemas operacionais.
+
+1º Escrevemos os códigos, no caso do kotlin os arquivos tem uma extenção do tipo .kt
+2º Esses códigos são passados pelo um compilador.
+3º Esse compilador gera um Bytecode, ou seja um arquivo .class, ele é lido por um software que é instalado na máquina que vai rodar a nossa aplicação, no caso a JVM, e essa JVM eu consigo instalar, tanto no Mac, Android, Windows e Linux, ou seja o mesmo arquivo Bytecode consegue rodar em várias plataformas.
+
