@@ -15,13 +15,13 @@ class Pessoa(val anoNascimento: Int, val nome: String){
     }
 }
 
-fun main(){
-    var pessoa = Pessoa2(2005,"Valdano")
-    pessoa.anoNascimento
-    pessoa.nome
-    pessoa.dormir()
-    pessoa.acordar()
-}
+//fun main(){
+//    var pessoa = Pessoa2(2005,"Valdano")
+//    pessoa.anoNascimento
+//    pessoa.nome
+//    pessoa.dormir()
+//    pessoa.acordar()
+//}
 
 /*
  * Para criar classe no kotlin é da seguinte forma:
